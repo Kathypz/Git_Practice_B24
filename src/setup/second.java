@@ -6,5 +6,6 @@ public class second {
     }
     public void m(int a){
 
+
     }
 }

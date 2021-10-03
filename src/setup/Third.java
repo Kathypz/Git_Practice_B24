@@ -17,5 +17,8 @@ public class Third {
 
 
         //okay next line
+
+        System.out.println("5");
+
     }
 }
